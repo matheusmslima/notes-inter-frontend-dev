@@ -1,4 +1,4 @@
 # Boas-vindas ao Bootcamp Inter Frontend Developer
 
-![certificado](C:\workspace\notes-inter-frontend-dev\aula-1-boas-vindas\boas-vindas-ao-bootcamp-inter-frontend-developer.jpg)
+![certificado](https://github.com/matheusmslima/notes-inter-frontend-dev/blob/main/aula-1-boas-vindas/boas-vindas-ao-bootcamp-inter-frontend-developer.jpg)
 
