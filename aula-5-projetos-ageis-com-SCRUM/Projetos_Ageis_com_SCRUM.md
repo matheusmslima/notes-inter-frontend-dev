@@ -1,3 +1,3 @@
 # Projetos Ágeis com SCRUM
 
-![certificado](C:\workspace\notes-inter-frontend-dev\aula-5-projetos-ageis-com-SCRUM\projetos-ageis-com-SCRUM.jpg)
+![certificado](https://github.com/matheusmslima/notes-inter-frontend-dev/blob/main/aula-5-projetos-ageis-com-SCRUM/projetos-ageis-com-SCRUM.jpg)
